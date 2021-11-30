@@ -18,8 +18,8 @@ See: [🥺 on esolangs.org](https://esolangs.org/wiki/%F0%9F%A5%BA)
 ## Installation
 
 ```sh
-git clone https://github.com/HiddyTiddy/🥺
-cd 🥺
+git clone https://github.com/HiddyTiddy/bottom
+cd bottom
 cargo test # for unstack tests
 cargo install --path .
 # run a program in this superior programming language
